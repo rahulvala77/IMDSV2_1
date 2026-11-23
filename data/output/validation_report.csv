@@ -1,0 +1,750 @@
+SYMBOL,HAS_PRICE,PRICE_AGE_DAYS,ANNUAL_ROWS,HAS_VALUATION,HAS_SHAREHOLDING,READY_FOR_SCORING,ISSUES
+360ONE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABB,True,0,4,True,False,True,no shareholding data
+ACC,True,0,4,True,False,True,no shareholding data
+ACMESOLAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AIAENG,True,0,4,True,False,True,no shareholding data
+APLAPOLLO,True,0,4,True,False,True,no shareholding data
+AUBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AWL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AXISCADES,True,0,4,True,False,True,no shareholding data
+AADHARHFC,True,0,4,True,False,True,no shareholding data
+AARTIIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AARTIPHARM,True,0,4,True,False,True,no shareholding data
+AAVAS,True,0,4,True,False,True,no shareholding data
+ABBOTINDIA,True,0,4,True,False,True,no shareholding data
+ACE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ACUTAAS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ADANIENSOL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ADANIENT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ADANIGREEN,True,0,4,True,False,True,no shareholding data
+ADANIPORTS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ADANIPOWER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ATGL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABCAPITAL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABFRL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABLBL,True,0,2,True,False,False,only 2 annual periods (need 3); no comparable year-ago quarter; no shareholding data
+ABREL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABSLAMC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CPPLUS,True,0,4,True,False,True,no shareholding data
+AVL,True,0,4,True,False,True,no shareholding data
+ADVENZYMES,True,0,4,True,False,True,no shareholding data
+AEGISLOG,True,0,4,True,False,True,no shareholding data
+AEGISVOPAK,True,0,4,True,False,True,no shareholding data
+AEQUS,True,0,4,True,False,True,no shareholding data
+AEROFLEX,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AETHER,True,0,4,True,False,True,no shareholding data
+AFCONS,True,0,4,True,False,True,no shareholding data
+AFFLE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AJANTPHARM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AKUMS,True,0,4,True,False,True,no shareholding data
+ALKEM,True,0,4,True,False,True,no shareholding data
+ALKYLAMINE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ABDL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AMAGI,True,0,4,True,False,True,no shareholding data
+ARE&M,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AMBER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AMBUJACEM,True,0,4,True,False,True,no shareholding data
+ANANDRATHI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ANANTRAJ,True,0,4,True,False,True,no shareholding data
+ANGELONE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ANTHEM,True,0,4,True,False,True,no shareholding data
+ANURAS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+APARINDS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+APOLLOHOSP,True,0,4,True,False,True,no shareholding data
+APOLLO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+APOLLOTYRE,True,0,4,True,False,True,no shareholding data
+APTUS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ACI,True,0,4,True,False,True,no shareholding data
+ARVINDFASN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ARVIND,True,0,4,True,False,True,no shareholding data
+ASAHIINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ASHAPURMIN,True,0,4,True,False,True,no shareholding data
+ASHOKLEY,True,0,4,True,False,True,no shareholding data
+ASHOKA,True,0,4,True,False,True,no shareholding data
+ASIANPAINT,True,0,4,True,False,True,no shareholding data
+ASTERDM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ASTRAMICRO,True,0,4,True,False,True,no shareholding data
+ASTRAL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ATHERENERG,True,0,4,True,False,True,no shareholding data
+ATLANTAELE,True,0,4,True,False,True,no shareholding data
+ATUL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AURIONPRO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AUROPHARMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AIIL,True,0,4,True,False,True,no shareholding data
+AVALON,True,0,4,True,False,True,no shareholding data
+AVANTIFEED,True,0,4,True,False,True,no shareholding data
+DMART,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AXISBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+AZAD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BEML,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BLS,True,0,4,True,False,True,no shareholding data
+BSE,True,0,4,True,False,True,no shareholding data
+BAJAJ-AUTO,True,0,4,True,False,True,no shareholding data
+BAJAJCON,True,0,4,True,False,True,no shareholding data
+BAJFINANCE,True,0,4,True,False,True,no shareholding data
+BAJAJFINSV,True,0,4,True,False,True,no shareholding data
+BAJAJHLDNG,True,0,4,True,False,True,no shareholding data
+BAJAJHFL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BALAMINES,True,0,4,True,False,True,no shareholding data
+BALKRISIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BALRAMCHIN,True,0,4,True,False,True,no shareholding data
+BALUFORGE,True,0,4,True,False,True,no shareholding data
+BANCOINDIA,True,0,4,True,False,True,no shareholding data
+BANDHANBNK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BANKBARODA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BANKINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MAHABANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BATAINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BELRISE,True,0,4,True,False,True,no shareholding data
+BERGEPAINT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BHARATCOAL,True,0,4,False,False,False,no valuation/market cap; no shareholding data
+BDL,True,0,4,True,False,True,no shareholding data
+BEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BHARATFORG,True,0,4,True,False,True,no shareholding data
+BHEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BPCL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BHARTIARTL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BHARTIHEXA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GROWW,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+BIOCON,True,0,4,True,False,True,no shareholding data
+BIRLACORPN,True,0,4,True,False,True,no shareholding data
+BSOFT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BBOX,True,0,4,True,False,True,no shareholding data
+BLACKBUCK,True,0,4,True,False,True,no shareholding data
+BLUEJET,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BLUESTARCO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BLUESTONE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BORORENEW,True,0,4,True,False,True,no shareholding data
+BOSCHLTD,True,0,4,True,False,True,no shareholding data
+FIRSTCRY,True,0,4,True,False,True,no shareholding data
+BRIGADE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BRITANNIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BIRET,True,3,4,True,False,True,no shareholding data
+MAPMYINDIA,True,0,4,True,False,True,no shareholding data
+CCL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CESC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CGPOWER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CIEINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CMRGREEN,True,0,4,False,False,False,only 114 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no valuation/market cap; no shareholding data
+CMSINFO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CRISIL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CSBBANK,True,0,4,True,False,True,no shareholding data
+CAMPUS,True,0,4,True,False,True,no shareholding data
+CANFINHOME,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CANBK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CANHLIFE,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+CRAMC,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+CAPILLARY,True,0,4,True,False,True,no shareholding data
+CAPLIPOINT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CGCL,True,0,4,True,False,True,no shareholding data
+CARBORUNIV,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CARTRADE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CASTROLIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CEATLTD,True,0,4,True,False,True,no shareholding data
+CEIGALL,True,0,4,True,False,True,no shareholding data
+CELLO,True,0,4,True,False,True,no shareholding data
+CEMPRO,True,0,4,True,False,True,no shareholding data
+CENTRALBK,True,0,4,True,False,True,no shareholding data
+CDSL,True,0,4,True,False,True,no shareholding data
+CMPDI,True,0,4,False,False,False,only 161 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no valuation/market cap; no shareholding data
+CENTUM,True,0,4,True,False,True,no shareholding data
+CERA,True,0,4,True,False,True,no shareholding data
+CHALET,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CHAMBLFERT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CHENNPETRO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CHOICEIN,True,0,4,True,False,True,no shareholding data
+CHOLAHLDNG,True,0,4,True,False,True,no shareholding data
+CHOLAFIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CIPLA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CUB,True,0,4,True,False,True,no shareholding data
+CLEANMAX,True,0,4,True,False,False,only 179 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+CLEAN,True,0,4,True,False,True,no shareholding data
+COALINDIA,True,0,4,True,False,True,no shareholding data
+COCHINSHIP,True,0,4,True,False,True,no shareholding data
+COFORGE,True,0,4,True,False,True,no shareholding data
+COHANCE,True,0,4,True,False,True,no shareholding data
+COLPAL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CAMS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CONCORDBIO,True,0,4,True,False,True,no shareholding data
+CONCOR,True,0,4,True,False,True,no shareholding data
+COROMANDEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CRAFTSMAN,True,0,4,True,False,True,no shareholding data
+CREDITACC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CROMPTON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CUMMINSIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+CUPID,True,0,4,True,False,True,no shareholding data
+CYIENT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DCBBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DLF,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DOMS,True,0,4,True,False,True,no shareholding data
+DABUR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DALBHARAT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DATAPATTNS,True,0,4,True,False,True,no shareholding data
+DATAMATICS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DEEPAKFERT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DEEPAKNTR,True,0,4,True,False,True,no shareholding data
+DELHIVERY,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DEVYANI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DIACABS,True,0,4,True,False,True,no shareholding data
+DBL,True,0,4,True,False,True,no shareholding data
+DIVISLAB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DIXON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LALPATHLAB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+DRREDDY,True,0,4,True,False,True,no shareholding data
+DYNAMATECH,True,0,4,True,False,True,no shareholding data
+EIDPARRY,True,0,4,True,False,True,no shareholding data
+E2E,True,0,4,True,False,True,no shareholding data
+EIHOTEL,True,0,4,True,False,True,no shareholding data
+EMBASSY,True,3,4,True,False,True,no shareholding data
+EPL,True,0,4,True,False,True,no shareholding data
+EDELWEISS,True,0,4,True,False,True,no shareholding data
+EICHERMOT,True,0,4,True,False,True,no shareholding data
+ELECON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+EMIL,True,0,4,True,False,True,no shareholding data
+ELECTCAST,True,0,4,True,False,True,no shareholding data
+ELGIEQUIP,True,0,4,True,False,True,no shareholding data
+ELLEN,True,0,4,True,False,True,no shareholding data
+EMAMILTD,True,0,4,True,False,True,no shareholding data
+EMBDL,True,0,4,True,False,True,no shareholding data
+EMCURE,True,0,4,True,False,True,no shareholding data
+EMMVEE,True,0,4,True,False,True,no shareholding data
+ENDURANCE,True,0,4,True,False,True,no shareholding data
+ENGINERSIN,True,0,4,True,False,True,no shareholding data
+ENTERO,True,0,4,True,False,True,no shareholding data
+EIEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+EQUITASBNK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ERIS,True,0,4,True,False,True,no shareholding data
+ESCORTS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ETERNAL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+EXIDEIND,True,0,4,True,False,True,no shareholding data
+NYKAA,True,0,4,True,False,True,no shareholding data
+FEDFINA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+FEDERALBNK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+FACT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+FIEMIND,True,0,4,True,False,True,no shareholding data
+FINCABLES,True,0,4,True,False,True,no shareholding data
+FINPIPE,True,0,4,True,False,True,no shareholding data
+FSL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+FIVESTAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+FORCEMOT,True,0,4,True,False,True,no shareholding data
+FORTIS,True,0,4,True,False,True,no shareholding data
+FRACTAL,True,0,4,True,False,False,only 189 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+UTLSOLAR,True,0,4,True,False,True,no shareholding data
+GAIL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GVT&D,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GMRAIRPORT,True,0,4,True,False,True,no shareholding data
+GMRP&UI,True,0,4,True,False,True,no shareholding data
+EBGNG,True,0,4,True,False,True,no shareholding data
+GABRIEL,True,0,4,True,False,True,no shareholding data
+GALLANTT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GRSE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GRWRHITECH,True,0,4,True,False,True,no shareholding data
+GICRE,True,0,4,True,False,True,no shareholding data
+GENUSPOWER,True,0,4,True,False,True,no shareholding data
+GILLETTE,True,0,4,True,False,True,no shareholding data
+GLAND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GLAXO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GLENMARK,True,0,4,True,False,True,no shareholding data
+MEDANTA,True,0,4,True,False,True,no shareholding data
+GPIL,True,0,4,True,False,True,no shareholding data
+GODFRYPHLP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GODREJAGRO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GODREJCP,True,0,4,True,False,True,no shareholding data
+GODREJIND,True,0,4,True,False,True,no shareholding data
+GODREJPROP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GOKEX,True,0,4,True,False,True,no shareholding data
+GOKULAGRO,True,0,4,True,False,True,no shareholding data
+GOLDIAM,True,0,4,True,False,True,no shareholding data
+GRANULES,True,0,4,True,False,True,no shareholding data
+GRAPHITE,True,0,4,True,False,True,no shareholding data
+GRASIM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GRAVITA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GESHIP,True,0,4,True,False,True,no shareholding data
+GREAVESCOT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GRINDWELL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+GUJALKALI,True,0,4,True,False,True,no shareholding data
+GAEL,True,0,4,True,False,True,no shareholding data
+FLUOROCHEM,True,0,4,True,False,True,no shareholding data
+GMDCLTD,True,0,4,True,False,True,no shareholding data
+GNFC,True,0,4,True,False,True,no shareholding data
+GPPL,True,0,4,True,False,True,no shareholding data
+GSFC,True,0,4,True,False,True,no shareholding data
+HGINFRA,True,0,4,True,False,True,no shareholding data
+HBLENGINE,True,0,4,True,False,True,no shareholding data
+HCLTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HDBFS,True,0,4,True,False,True,no shareholding data
+HDFCAMC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HDFCBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HDFCLIFE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HEGAM,True,0,4,True,False,True,no shareholding data
+HFCL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HAPPSTMNDS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HAPPYFORGE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HAVELLS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HCG,True,0,4,True,False,True,no shareholding data
+HERITGFOOD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HEROMOTOCO,True,0,4,True,False,True,no shareholding data
+HEXT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HSCL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HINDALCO,True,0,4,True,False,True,no shareholding data
+HAL,True,0,4,True,False,True,no shareholding data
+HCC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HINDCOPPER,True,0,4,True,False,True,no shareholding data
+HINDPETRO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HINDUNILVR,True,0,4,True,False,True,no shareholding data
+HINDZINC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+POWERINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HOMEFIRST,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HONASA,True,0,4,True,False,True,no shareholding data
+HONAUT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+HUDCO,True,0,4,True,False,True,no shareholding data
+HYUNDAI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ICICIBANK,True,0,4,True,False,True,no shareholding data
+ICICILIFE,True,0,4,True,False,True,no shareholding data
+ICICIGI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ICICIAMC,True,0,4,True,False,True,no shareholding data
+IDBI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IDFCFIRSTB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IFBIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IFCI,True,0,4,True,False,True,no shareholding data
+IIFLCAPS,True,0,4,True,False,True,no shareholding data
+IIFL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INOXINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IRB,True,0,4,True,False,True,no shareholding data
+IRCON,True,0,4,True,False,True,no shareholding data
+ITCHOTELS,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+ITC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ITI,True,0,4,True,False,True,no shareholding data
+INDGN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDIACEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDIAGLYCO,True,0,4,True,False,True,no shareholding data
+INDIAMART,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDIANB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IEX,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDHOTEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IMFA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IOC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IOB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IRCTC,True,0,4,True,False,True,no shareholding data
+IRFC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IREDA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDIGOPNTS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ICIL,True,0,4,True,False,True,no shareholding data
+IGL,True,0,4,True,False,True,no shareholding data
+INDUSTOWER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDUSINDBK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NAUKRI,True,0,4,True,False,True,no shareholding data
+INFY,True,0,4,True,False,True,no shareholding data
+INOXWIND,True,0,4,True,False,True,no shareholding data
+INTELLECT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+INDIGO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IGIL,True,0,4,True,False,True,no shareholding data
+IKS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IONEXCHANG,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IPCALAB,True,0,4,True,False,True,no shareholding data
+JKCEMENT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JAIBALAJI,True,0,4,True,False,True,no shareholding data
+JBMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JKPAPER,True,0,4,True,False,True,no shareholding data
+JKTYRE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JMFINANCIL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JSWCEMENT,True,0,4,True,False,True,no shareholding data
+JSWENERGY,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JSWINFRA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JSWSTEEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JAINREC,True,0,4,True,False,True,no shareholding data
+JPPOWER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+J&KBANK,True,0,4,True,False,True,no shareholding data
+JAMNAAUTO,True,0,4,True,False,True,no shareholding data
+JSFB,True,0,4,True,False,True,no shareholding data
+JAYNECOIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JSLL,True,0,4,True,False,True,no shareholding data
+JINDALSAW,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JSL,True,0,4,True,False,True,no shareholding data
+JINDALSTEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JIOFIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JUBLFOOD,True,0,4,True,False,True,no shareholding data
+JUBLINGREA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JUBLPHARMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+JWL,True,0,4,True,False,True,no shareholding data
+JUSTDIAL,True,0,4,True,False,True,no shareholding data
+JYOTHYLAB,True,0,4,True,False,True,no shareholding data
+JYOTICNC,True,0,4,True,False,True,no shareholding data
+KPRMILL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KEI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KNRCON,True,0,4,True,False,True,no shareholding data
+KPIGREEN,True,0,4,True,False,True,no shareholding data
+KPITTECH,True,0,4,True,False,True,no shareholding data
+KRBL,True,0,4,True,False,True,no shareholding data
+KRN,True,0,4,True,False,True,no shareholding data
+KSB,True,0,4,True,False,True,no shareholding data
+KAJARIACER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KPIL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KALYANKJIL,True,0,4,True,False,True,no shareholding data
+KANSAINER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KTKBANK,True,0,4,True,False,True,no shareholding data
+KARURVYSYA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KSCL,True,0,4,True,False,True,no shareholding data
+KAYNES,True,0,4,True,False,True,no shareholding data
+KEC,True,0,4,True,False,True,no shareholding data
+KFINTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KIRLOSBROS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KIRLOSENG,True,0,4,True,False,True,no shareholding data
+KIRLPNU,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+KITEX,True,0,4,True,False,True,no shareholding data
+KMEW,True,0,4,True,False,True,no shareholding data
+KOTAKBANK,True,0,4,True,False,True,no shareholding data
+KIMS,True,0,4,True,False,True,no shareholding data
+KWIL,True,0,0,True,False,False,only 189 price bars (<200; recent listing?) - 200DMA/12m return unavailable; only 0 annual periods (need 3); no shareholding data
+LTF,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LTTS,True,0,4,True,False,True,no shareholding data
+LGEINDIA,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+LICHSGFIN,True,0,4,True,False,True,no shareholding data
+LTFOODS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LTM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LATENTVIEW,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LAURUSLABS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LXCHEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+IXIGO,True,0,4,True,False,True,no shareholding data
+THELEELA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LEMONTREE,True,0,4,True,False,True,no shareholding data
+LENSKART,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+LICI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LINDEINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LLOYDSENGG,True,0,4,True,False,True,no shareholding data
+LLOYDSENT,True,0,4,True,False,True,no shareholding data
+LLOYDSME,True,0,4,True,False,True,no shareholding data
+LODHA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LUMAXTECH,True,0,4,True,False,True,no shareholding data
+LUMAXIND,True,0,4,True,False,True,no shareholding data
+LUPIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MMTC,True,0,4,True,False,True,no shareholding data
+MOIL,True,0,4,True,False,True,no shareholding data
+MRF,True,0,4,True,False,True,no shareholding data
+MSTCLTD,True,0,4,True,False,True,no shareholding data
+MTARTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MBAPL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MGL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+M&MFIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+M&M,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MANAPPURAM,True,0,4,True,False,True,no shareholding data
+MRPL,True,0,4,True,False,True,no shareholding data
+MANKIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MANORAMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MARICO,True,0,4,True,False,True,no shareholding data
+MARKSANS,True,0,4,True,False,True,no shareholding data
+MARUTI,True,0,4,True,False,True,no shareholding data
+MASTEK,True,0,4,True,False,True,no shareholding data
+MFSL,True,0,4,True,False,True,no shareholding data
+MAXHEALTH,True,0,4,True,False,True,no shareholding data
+MAZDOCK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MEDPLUS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MEESHO,True,0,4,True,False,True,no shareholding data
+METROPOLIS,True,0,4,True,False,True,no shareholding data
+MINDACORP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MIDHANI,True,0,4,True,False,True,no shareholding data
+MSUMI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MOTILALOFS,True,0,4,True,False,True,no shareholding data
+MPHASIS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+BECTORFOOD,True,0,4,True,False,True,no shareholding data
+MCX,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MUTHOOTFIN,True,0,4,True,False,True,no shareholding data
+NATCOPHARM,True,0,4,True,False,True,no shareholding data
+NBCC,True,0,4,True,False,True,no shareholding data
+NCC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NEOGEN,True,0,4,True,False,True,no shareholding data
+NHPC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NLCINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NMDC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NSLNISP,True,0,4,True,False,True,no shareholding data
+NTPCGREEN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NTPC,True,0,4,True,False,True,no shareholding data
+NH,True,0,4,True,False,True,no shareholding data
+NATIONALUM,True,0,4,True,False,True,no shareholding data
+NFL,True,0,4,True,False,True,no shareholding data
+NAVA,True,0,4,True,False,True,no shareholding data
+NAVINFLUOR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NAZARA,True,0,4,True,False,True,no shareholding data
+NEPHROPLUS,True,0,4,True,False,True,no shareholding data
+NESTLEIND,True,0,3,True,False,True,no comparable year-ago quarter; no shareholding data
+NETWEB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NETWORK18,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NEULANDLAB,True,0,4,True,False,True,no shareholding data
+NEWGEN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NAM-INDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NIVABUPA,True,0,4,True,False,True,no shareholding data
+NORTHARC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NUVAMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NUVOCO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+OBEROIRLTY,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ONGC,True,0,4,True,False,True,no shareholding data
+OIL,True,0,4,True,False,True,no shareholding data
+OLAELEC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+OLECTRA,True,0,4,True,False,True,no shareholding data
+OMNI,True,0,4,True,False,False,only 177 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+KISSHT,True,0,4,True,False,False,only 136 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+PAYTM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ONESOURCE,True,0,4,True,False,True,no shareholding data
+OFSS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+OSWALPUMPS,True,0,4,True,False,True,no shareholding data
+PNGJL,True,0,4,True,False,True,no shareholding data
+POLICYBZR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PCJEWELLER,True,0,4,True,False,True,no shareholding data
+PCBL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PDSL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PGEL,True,0,4,True,False,True,no shareholding data
+PIIND,True,0,4,True,False,True,no shareholding data
+PNBHOUSING,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PNCINFRA,True,0,4,True,False,True,no shareholding data
+PTC,True,0,4,True,False,True,no shareholding data
+PTCIL,True,0,4,True,False,True,no shareholding data
+PVRINOX,True,0,4,True,False,True,no shareholding data
+PAGEIND,True,0,4,True,False,True,no shareholding data
+PAISALO,True,0,4,True,False,True,no shareholding data
+PARADEEP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PARAS,True,0,4,True,False,True,no shareholding data
+PARKHOSPS,True,0,4,True,False,True,no shareholding data
+PATANJALI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PGIL,True,0,4,True,False,True,no shareholding data
+PERSISTENT,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PETRONET,True,0,4,True,False,True,no shareholding data
+PFIZER,True,0,4,True,False,True,no shareholding data
+PHOENIXLTD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PWL,True,0,4,True,False,True,no shareholding data
+PICCADIL,True,0,4,True,False,True,no shareholding data
+PIDILITIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PINELABS,True,0,4,True,False,True,no shareholding data
+PIRAMALFIN,True,0,4,True,False,True,no shareholding data
+PPLPHARMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+POLYMED,True,0,4,True,False,True,no shareholding data
+POLYCAB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+POONAWALLA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PFC,True,0,4,True,False,True,no shareholding data
+POWERGRID,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+POWERMECH,True,0,4,True,False,True,no shareholding data
+POWERICA,True,0,4,True,False,False,only 159 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+PRAJIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PRECWIRE,True,0,4,True,False,True,no shareholding data
+PREMIERENE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PRESTIGE,True,0,4,True,False,True,no shareholding data
+PRICOLLTD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PFOCUS,True,0,4,True,False,True,no shareholding data
+PRIVISCL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PGHL,True,0,4,True,False,True,no shareholding data
+PNB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+PURVA,True,0,4,True,False,True,no shareholding data
+QPOWER,True,0,4,True,False,True,no shareholding data
+QUESS,True,0,4,True,False,True,no shareholding data
+RRKABEL,True,0,4,True,False,True,no shareholding data
+RBLBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RECLTD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RHIM,True,0,4,True,False,True,no shareholding data
+RITES,True,0,4,True,False,True,no shareholding data
+RADICO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RVNL,True,0,4,True,False,True,no shareholding data
+RAILTEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RAIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RAINBOW,True,0,4,True,False,True,no shareholding data
+RALLIS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RKFORGE,True,0,4,True,False,True,no shareholding data
+RCF,True,0,4,True,False,True,no shareholding data
+RATEGAIN,True,0,4,True,False,True,no shareholding data
+RATNAMANI,True,0,4,True,False,True,no shareholding data
+RTNPOWER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RAYMONDLSL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+REDINGTON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+REFEX,True,0,4,True,False,True,no shareholding data
+RELAXO,True,0,4,True,False,True,no shareholding data
+RELIANCE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RPOWER,True,0,4,True,False,True,no shareholding data
+RELIGARE,True,0,4,True,False,True,no shareholding data
+RESPONIND,True,0,4,True,False,True,no shareholding data
+RBA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ROUTE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RUBICON,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+SJS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SBFC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SBICARD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SBILIFE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SEDEMAC,True,0,4,True,False,False,only 173 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+SGMART,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SIGMAADV,True,0,4,True,False,True,no shareholding data
+SJVN,True,0,4,True,False,True,no shareholding data
+SKYGOLD,True,0,4,True,False,True,no shareholding data
+SMLMAH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHRIPISTON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SRF,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+LOTUSDEV,True,0,4,True,False,True,no shareholding data
+SAFARI,True,0,4,True,False,True,no shareholding data
+SAGILITY,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SAILIFE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SAMHI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SAMMAANCAP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+MOTHERSON,True,0,4,True,False,True,no shareholding data
+SANDUMA,True,0,4,True,False,True,no shareholding data
+SANSERA,True,0,4,True,False,True,no shareholding data
+SAPPHIRE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SARDAEN,True,0,4,True,False,True,no shareholding data
+SAREGAMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SCHAEFFLER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SCHNEIDER,True,0,4,True,False,True,no shareholding data
+SENCO,True,0,4,True,False,True,no shareholding data
+SENORES,True,0,4,True,False,True,no shareholding data
+SHADOWFAX,True,0,4,True,False,True,no shareholding data
+SHAILY,True,0,4,True,False,True,no shareholding data
+SHAKTIPUMP,True,0,4,True,False,True,no shareholding data
+SHARDACROP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHAREINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SFL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHILCTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHILPAMED,True,0,4,True,False,True,no shareholding data
+SCI,True,0,4,True,False,True,no shareholding data
+SHREECEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+RENUKA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHREEJISPG,True,0,4,True,False,True,no shareholding data
+SHRIRAMFIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SHYAMMETL,True,0,4,True,False,True,no shareholding data
+ENRIN,True,0,2,True,False,False,only 2 annual periods (need 3); no shareholding data
+SIEMENS,True,0,4,True,False,True,no shareholding data
+SIGNATURE,True,0,4,True,False,True,no shareholding data
+SKIPPER,True,0,4,True,False,True,no shareholding data
+SOBHA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SOLARINDS,True,0,4,True,False,True,no shareholding data
+SONACOMS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SONATSOFTW,True,0,4,True,False,True,no shareholding data
+SOUTHBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+STARHEALTH,True,0,4,True,False,True,no shareholding data
+SBIN,True,0,4,True,False,True,no shareholding data
+SAIL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SWSOLAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+STLTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+STAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+STYLAMIND,True,0,4,True,False,True,no shareholding data
+SUBROS,True,0,4,True,False,True,no shareholding data
+SUDARSCHEM,True,0,4,True,False,True,no shareholding data
+SUDEEPPHRM,True,0,4,True,False,True,no shareholding data
+SUMICHEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SPARC,True,0,4,True,False,True,no shareholding data
+SUNPHARMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SUNTV,True,0,4,True,False,True,no shareholding data
+SUNDARMFIN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SUNDRMFAST,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SUNFLAG,True,0,4,True,False,True,no shareholding data
+SUNTECK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SUPREMEIND,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SPLPETRO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SUPRIYA,True,0,4,True,False,True,no shareholding data
+SURYAROSNI,True,0,4,True,False,True,no shareholding data
+SUVEN,True,0,4,True,False,True,no shareholding data
+SUZLON,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SWANCORP,True,0,4,True,False,True,no shareholding data
+SWIGGY,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SYNGENE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+SYRMA,True,0,4,True,False,True,no shareholding data
+TARC,True,0,4,True,False,True,no shareholding data
+TBOTEK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TDPOWERSYS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TTKPRESTIG,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TVSMOTOR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TVSSCS,True,0,4,True,False,True,no shareholding data
+TMB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TANLA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TATACAP,True,0,4,True,False,True,no shareholding data
+TATACHEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TATACOMM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TCS,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TATACONSUM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TATAELXSI,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TATAINVEST,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TMCV,True,0,3,True,False,True,no shareholding data
+TMPV,True,0,4,True,False,True,no shareholding data
+TATAPOWER,True,0,4,True,False,True,no shareholding data
+TATASTEEL,True,0,4,True,False,True,no shareholding data
+TATATECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TTML,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TECHM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TECHNOE,True,0,4,True,False,True,no shareholding data
+TEGA,True,0,4,True,False,True,no shareholding data
+TEJASNET,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TENNIND,True,0,4,True,False,True,no shareholding data
+TEXRAIL,True,0,4,True,False,True,no shareholding data
+THANGAMAYL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+NIACL,True,0,4,True,False,True,no shareholding data
+RAMCOCEM,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+THERMAX,True,0,4,True,False,True,no shareholding data
+THOMASCOOK,True,0,4,True,False,True,no shareholding data
+THYROCARE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TI,True,0,4,True,False,True,no shareholding data
+TIMETECHNO,True,0,4,True,False,True,no shareholding data
+TIMEX,True,0,4,False,False,False,only 146 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no valuation/market cap; no shareholding data
+TIMKEN,True,0,4,True,False,True,no shareholding data
+TIPSMUSIC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TITAGARH,True,0,4,True,False,True,no shareholding data
+TITAN,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+TORNTPHARM,True,0,4,True,False,True,no shareholding data
+TORNTPOWER,True,0,4,True,False,True,no shareholding data
+TARIL,True,0,4,True,False,True,no shareholding data
+TRANSRAILL,True,0,4,True,False,True,no shareholding data
+TRENT,True,0,4,True,False,True,no shareholding data
+TRIDENT,True,0,4,True,False,True,no shareholding data
+TRITURBINE,True,0,4,True,False,True,no shareholding data
+TIINDIA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UCOBANK,True,0,4,True,False,True,no shareholding data
+UNOMINDA,True,0,4,True,False,True,no shareholding data
+UPL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UTIAMC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UJJIVANSFB,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ULTRACEMCO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UNIMECH,True,0,4,True,False,True,no shareholding data
+UNIONBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UBL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+UNITDSPR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+URBANCO,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+USHAMART,True,0,4,True,False,True,no shareholding data
+VGUARD,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VMART,True,0,4,True,False,True,no shareholding data
+VIPIND,True,0,4,True,False,True,no shareholding data
+V2RETAIL,True,0,4,True,False,True,no shareholding data
+DBREALTY,True,0,4,True,False,True,no shareholding data
+WABAG,True,0,4,True,False,True,no shareholding data
+VAIBHAVGBL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VTL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VBL,True,0,4,True,False,True,no shareholding data
+MANYAVAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VAML,True,0,3,True,False,False,only 111 price bars (<200; recent listing?) - 200DMA/12m return unavailable; non-positive revenue; no shareholding data
+VISL,True,0,2,True,False,False,only 111 price bars (<200; recent listing?) - 200DMA/12m return unavailable; only 2 annual periods (need 3); no shareholding data
+VEDL,True,0,4,True,False,True,no shareholding data
+VOGL,True,0,4,True,False,False,only 111 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+VEDPOWER,True,0,4,True,False,False,only 111 price bars (<200; recent listing?) - 200DMA/12m return unavailable; no shareholding data
+VESUVIUS,True,0,4,True,False,True,no shareholding data
+VIJAYA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VIKRAMSOLR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+VMM,True,0,4,True,False,True,no shareholding data
+VIYASH,True,0,4,True,False,True,no shareholding data
+IDEA,True,0,4,True,False,True,no shareholding data
+VOLTAMP,True,0,4,True,False,True,no shareholding data
+VOLTAS,True,0,4,True,False,True,no shareholding data
+WAAREEENER,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+WAAREERTL,True,0,4,True,False,True,no shareholding data
+WAKEFIT,True,0,4,True,False,True,no shareholding data
+WEWORK,True,0,1,True,False,False,only 1 annual periods (need 3); no shareholding data
+WEBELSOLAR,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+WELCORP,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+WELENT,True,0,4,True,False,True,no shareholding data
+WELSPUNLIV,True,0,4,True,False,True,no shareholding data
+WESTLIFE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+WHIRLPOOL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+WIPRO,True,0,4,True,False,True,no shareholding data
+WOCKPHARMA,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+YATHARTH,True,0,4,True,False,True,no shareholding data
+YESBANK,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ZFCVINDIA,True,0,4,True,False,True,no shareholding data
+ZAGGLE,True,0,4,True,False,True,no shareholding data
+ZEEL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ZENTEC,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ZENSARTECH,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ZYDUSLIFE,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ZYDUSWELL,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data
+ECLERX,True,0,4,True,False,True,no comparable year-ago quarter; no shareholding data

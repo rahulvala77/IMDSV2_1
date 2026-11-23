@@ -1,0 +1,14 @@
+RUN_TIMESTAMP_UTC,STAGE,STATUS,DETAILS
+2026-11-23T07:22:48+00:00,universe_validation,SUCCESS,749 unique active symbols
+2026-11-23T07:22:48+00:00,technical_data_collection,SUCCESS,749/749 symbols.
+2026-11-23T07:22:48+00:00,financial_filings_collection,SUCCESS,749/749 symbols.
+2026-11-23T07:22:48+00:00,valuation_data_collection,SUCCESS,749/749 symbols.
+2026-11-23T07:22:48+00:00,shareholding_extraction,FAILED,"could not open NSE session: HTTPSConnectionPool(host='www.nseindia.in', port=443): Max retries exceeded with url: /companies-listing/corporate-filings-shareholding-pattern (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1147)'))). Try again later / from another network."
+2026-11-23T07:22:48+00:00,annual_financial_extraction,PARTIAL,748/749 symbols. 2966 annual rows
+2026-11-23T07:22:48+00:00,quarterly_results_extraction,SUCCESS,749/749 symbols. 3786 quarterly rows
+2026-11-23T07:22:48+00:00,technical_calc,SUCCESS,749/749 symbols.
+2026-11-23T07:22:48+00:00,fundamentals_calc,PARTIAL,748/749 symbols.
+2026-11-23T07:22:48+00:00,valuation_calculation,SUCCESS,749/749 symbols. PEG available for 523
+2026-11-23T07:22:48+00:00,data_validation,PARTIAL,724/749 symbols. ready for scoring
+2026-11-23T07:22:48+00:00,multibagger_scoring,SUCCESS,"309 ranked of 749 (118 out of size band); score p10/p50/p90 = 28/51/73; top: MANORAMA, TIPSMUSIC, SKYGOLD"
+2026-11-23T07:22:48+00:00,excel_report,SUCCESS,IMDS_report_20261123.xlsx

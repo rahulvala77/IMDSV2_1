@@ -1,0 +1,18 @@
+2026-11-23 12:46:32,377 | INFO | IMDS v2.0 run - universe: 749 symbols
+2026-11-23 12:46:32,377 | INFO | >>> annual_financial_extraction
+2026-11-23 12:46:37,871 | INFO | <<< annual_financial_extraction: PARTIAL - 748/749 symbols. 2966 annual rows
+2026-11-23 12:46:37,873 | INFO | >>> quarterly_results_extraction
+2026-11-23 12:46:40,051 | INFO | <<< quarterly_results_extraction: SUCCESS - 749/749 symbols. 3786 quarterly rows
+2026-11-23 12:46:40,053 | INFO | >>> technical_calc
+2026-11-23 12:46:43,045 | INFO | <<< technical_calc: SUCCESS - 749/749 symbols.
+2026-11-23 12:46:43,046 | INFO | >>> fundamentals_calc
+2026-11-23 12:46:45,670 | INFO | <<< fundamentals_calc: PARTIAL - 748/749 symbols.
+2026-11-23 12:46:45,677 | INFO | >>> valuation_calculation
+2026-11-23 12:46:45,706 | INFO | <<< valuation_calculation: SUCCESS - 749/749 symbols. PEG available for 523
+2026-11-23 12:46:45,708 | INFO | >>> data_validation
+2026-11-23 12:46:45,828 | INFO | <<< data_validation: PARTIAL - 724/749 symbols. ready for scoring
+2026-11-23 12:46:45,829 | INFO | >>> multibagger_scoring
+2026-11-23 12:46:45,930 | INFO | <<< multibagger_scoring: SUCCESS - 328 ranked of 749 (130 out of size band); score p10/p50/p90 = 28/50/72; top: MANORAMA, TIPSMUSIC, SKYGOLD
+2026-11-23 12:46:45,932 | INFO | >>> excel_report
+2026-11-23 12:46:46,964 | INFO | <<< excel_report: SUCCESS - IMDS_report_20261123.xlsx
+2026-11-23 12:46:46,967 | INFO | Done. Status: D:\IMDS_v2_1\data\output\pipeline_status.csv

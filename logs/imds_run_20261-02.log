@@ -1,0 +1,184 @@
+2026-11-23 11:52:22,991 | INFO | IMDS v2.0 run - universe: 752 symbols
+2026-11-23 11:52:22,991 | INFO | >>> technical_data_collection
+2026-11-23 11:52:28,178 | INFO | Prices: batch 1-50 of 752
+2026-11-23 11:52:31,020 | INFO | Prices: batch 51-100 of 752
+2026-11-23 11:52:34,714 | ERROR | $BAGMANE.NS: No data found, symbol may be delisted
+2026-11-23 11:52:34,719 | ERROR | 
+1 Failed download:
+2026-11-23 11:52:34,719 | ERROR | ['BAGMANE.NS']: No data found, symbol may be delisted
+2026-11-23 11:52:34,969 | INFO | Prices: batch 101-150 of 752
+2026-11-23 11:52:37,869 | INFO | Prices: batch 151-200 of 752
+2026-11-23 11:52:41,612 | ERROR | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DUMMYHEG.NS"}}}
+2026-11-23 11:52:41,613 | ERROR | $DUMMYINXGN.NS: No data found, symbol may be delisted
+2026-11-23 11:52:42,755 | ERROR | $DUMMYHEG.NS: No data found, symbol may be delisted
+2026-11-23 11:52:42,759 | ERROR | 
+2 Failed downloads:
+2026-11-23 11:52:42,759 | ERROR | ['DUMMYINXGN.NS', 'DUMMYHEG.NS']: No data found, symbol may be delisted
+2026-11-23 11:52:42,999 | INFO | Prices: batch 201-250 of 752
+2026-11-23 11:52:46,212 | INFO | Prices: batch 251-300 of 752
+2026-11-23 11:52:49,261 | INFO | Prices: batch 301-350 of 752
+2026-11-23 11:52:51,950 | INFO | Prices: batch 351-400 of 752
+2026-11-23 11:52:54,948 | INFO | Prices: batch 401-450 of 752
+2026-11-23 11:52:57,599 | INFO | Prices: batch 451-500 of 752
+2026-11-23 11:53:00,187 | INFO | Prices: batch 501-550 of 752
+2026-11-23 11:53:02,873 | INFO | Prices: batch 551-600 of 752
+2026-11-23 11:53:05,654 | INFO | Prices: batch 601-650 of 752
+2026-11-23 11:53:08,451 | INFO | Prices: batch 651-700 of 752
+2026-11-23 11:53:11,531 | INFO | Prices: batch 701-750 of 752
+2026-11-23 11:53:14,073 | INFO | Prices: batch 751-752 of 752
+2026-11-23 11:53:14,757 | WARNING | No price data for 3 symbols (first 15): ['BAGMANE', 'DUMMYHEG', 'DUMMYINXGN']
+2026-11-23 11:53:14,758 | INFO | <<< technical_data_collection: PARTIAL - 749/752 symbols. failed sample: ['BAGMANE', 'DUMMYHEG', 'DUMMYINXGN']
+2026-11-23 11:53:14,765 | INFO | >>> financial_filings_collection
+2026-11-23 11:53:33,984 | INFO | Statements: 25/752 done
+2026-11-23 11:53:50,835 | INFO | Statements: 50/752 done
+2026-11-23 11:54:08,300 | INFO | Statements: 75/752 done
+2026-11-23 11:54:24,614 | INFO | Statements: 100/752 done
+2026-11-23 11:54:42,548 | INFO | Statements: 125/752 done
+2026-11-23 11:54:58,986 | INFO | Statements: 150/752 done
+2026-11-23 11:55:16,363 | INFO | Statements: 175/752 done
+2026-11-23 11:55:32,910 | INFO | Statements: 200/752 done
+2026-11-23 11:55:50,507 | INFO | Statements: 225/752 done
+2026-11-23 11:56:07,604 | INFO | Statements: 250/752 done
+2026-11-23 11:56:24,920 | INFO | Statements: 275/752 done
+2026-11-23 11:56:41,671 | INFO | Statements: 300/752 done
+2026-11-23 11:56:59,142 | INFO | Statements: 325/752 done
+2026-11-23 11:57:16,626 | INFO | Statements: 350/752 done
+2026-11-23 11:57:33,531 | INFO | Statements: 375/752 done
+2026-11-23 11:57:50,178 | INFO | Statements: 400/752 done
+2026-11-23 11:58:07,977 | INFO | Statements: 425/752 done
+2026-11-23 11:58:25,494 | INFO | Statements: 450/752 done
+2026-11-23 11:58:42,634 | INFO | Statements: 475/752 done
+2026-11-23 11:58:59,820 | INFO | Statements: 500/752 done
+2026-11-23 11:59:18,649 | INFO | Statements: 525/752 done
+2026-11-23 11:59:35,814 | INFO | Statements: 550/752 done
+2026-11-23 11:59:52,214 | INFO | Statements: 575/752 done
+2026-11-23 12:00:09,605 | INFO | Statements: 600/752 done
+2026-11-23 12:00:28,909 | INFO | Statements: 625/752 done
+2026-11-23 12:00:45,453 | INFO | Statements: 650/752 done
+2026-11-23 12:01:04,179 | INFO | Statements: 675/752 done
+2026-11-23 12:01:21,404 | INFO | Statements: 700/752 done
+2026-11-23 12:01:41,303 | INFO | Statements: 725/752 done
+2026-11-23 12:01:58,530 | INFO | Statements: 750/752 done
+2026-11-23 12:01:59,865 | WARNING | Statement fetch problems (3), first 10: ['BAGMANE:EMPTY', 'DUMMYHEG:EMPTY', 'DUMMYINXGN:EMPTY']
+2026-11-23 12:01:59,866 | INFO | <<< financial_filings_collection: PARTIAL - 749/752 symbols. problems sample: ['BAGMANE:EMPTY', 'DUMMYHEG:EMPTY', 'DUMMYINXGN:EMPTY']
+2026-11-23 12:01:59,867 | INFO | >>> valuation_data_collection
+2026-11-23 12:02:15,527 | INFO | Valuation info: 25/752 done
+2026-11-23 12:02:27,117 | INFO | Valuation info: 50/752 done
+2026-11-23 12:02:38,909 | INFO | Valuation info: 75/752 done
+2026-11-23 12:02:50,416 | INFO | Valuation info: 100/752 done
+2026-11-23 12:03:00,974 | INFO | Valuation info: 125/752 done
+2026-11-23 12:03:12,103 | INFO | Valuation info: 150/752 done
+2026-11-23 12:03:22,781 | INFO | Valuation info: 175/752 done
+2026-11-23 12:03:31,232 | ERROR | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DUMMYHEG.NS"}}}
+2026-11-23 12:03:32,495 | ERROR | HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: DUMMYINXGN.NS"}}}
+2026-11-23 12:03:34,075 | INFO | Valuation info: 200/752 done
+2026-11-23 12:03:45,281 | INFO | Valuation info: 225/752 done
+2026-11-23 12:03:56,706 | INFO | Valuation info: 250/752 done
+2026-11-23 12:04:08,743 | INFO | Valuation info: 275/752 done
+2026-11-23 12:04:22,186 | INFO | Valuation info: 300/752 done
+2026-11-23 12:04:33,566 | INFO | Valuation info: 325/752 done
+2026-11-23 12:04:44,611 | INFO | Valuation info: 350/752 done
+2026-11-23 12:04:55,311 | INFO | Valuation info: 375/752 done
+2026-11-23 12:05:07,649 | INFO | Valuation info: 400/752 done
+2026-11-23 12:05:18,321 | INFO | Valuation info: 425/752 done
+2026-11-23 12:05:29,749 | INFO | Valuation info: 450/752 done
+2026-11-23 12:05:41,134 | INFO | Valuation info: 475/752 done
+2026-11-23 12:05:51,744 | INFO | Valuation info: 500/752 done
+2026-11-23 12:06:02,796 | INFO | Valuation info: 525/752 done
+2026-11-23 12:06:14,101 | INFO | Valuation info: 550/752 done
+2026-11-23 12:06:25,333 | INFO | Valuation info: 575/752 done
+2026-11-23 12:06:36,803 | INFO | Valuation info: 600/752 done
+2026-11-23 12:06:47,558 | INFO | Valuation info: 625/752 done
+2026-11-23 12:06:58,552 | INFO | Valuation info: 650/752 done
+2026-11-23 12:07:09,503 | INFO | Valuation info: 675/752 done
+2026-11-23 12:07:21,932 | INFO | Valuation info: 700/752 done
+2026-11-23 12:07:34,236 | INFO | Valuation info: 725/752 done
+2026-11-23 12:07:46,055 | INFO | Valuation info: 750/752 done
+2026-11-23 12:07:46,606 | WARNING | No valuation data for 3 symbols, first 10: ['BAGMANE', 'DUMMYHEG', 'DUMMYINXGN']
+2026-11-23 12:07:46,612 | INFO | <<< valuation_data_collection: PARTIAL - 749/752 symbols.
+2026-11-23 12:07:46,613 | INFO | >>> shareholding_extraction
+2026-11-23 12:07:49,064 | INFO | <<< shareholding_extraction: FAILED - could not open NSE session: HTTPSConnectionPool(host='www.nseindia.in', port=443): Max retries exceeded with url: /companies-listing/corporate-filings-shareholding-pattern (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1147)'))). Try again later / from another network.
+2026-11-23 12:07:49,069 | INFO | >>> annual_financial_extraction
+2026-11-23 12:08:40,249 | INFO | <<< annual_financial_extraction: PARTIAL - 748/752 symbols. 2966 annual rows
+2026-11-23 12:08:40,251 | INFO | >>> quarterly_results_extraction
+2026-11-23 12:08:54,892 | INFO | <<< quarterly_results_extraction: PARTIAL - 749/752 symbols. 3786 quarterly rows
+2026-11-23 12:08:54,893 | INFO | >>> technical_calc
+2026-11-23 12:09:12,719 | INFO | <<< technical_calc: PARTIAL - 749/752 symbols.
+2026-11-23 12:09:12,726 | INFO | >>> fundamentals_calc
+2026-11-23 12:09:16,132 | INFO | <<< fundamentals_calc: PARTIAL - 748/752 symbols.
+2026-11-23 12:09:16,134 | INFO | >>> valuation_calculation
+2026-11-23 12:09:16,222 | INFO | <<< valuation_calculation: PARTIAL - 749/752 symbols. PEG available for 523
+2026-11-23 12:09:16,223 | INFO | >>> data_validation
+2026-11-23 12:09:16,344 | INFO | <<< data_validation: PARTIAL - 733/752 symbols. ready for scoring
+2026-11-23 12:09:16,345 | INFO | >>> multibagger_scoring
+2026-11-23 12:09:16,581 | INFO | <<< multibagger_scoring: SUCCESS - 584 ranked of 752; top: TIPSMUSIC, SEDEMAC, SJS
+2026-11-23 12:09:16,583 | INFO | >>> excel_report
+2026-11-23 12:09:18,321 | INFO | <<< excel_report: SUCCESS - IMDS_report_20261123.xlsx
+2026-11-23 12:09:18,323 | INFO | Done. Status: D:\IMDS_v2_1\data\output\pipeline_status.csv
+2026-11-23 12:52:48,386 | INFO | IMDS v2.0 run - universe: 749 symbols
+2026-11-23 12:52:48,386 | INFO | >>> technical_data_collection
+2026-11-23 12:52:51,828 | INFO | Prices: batch 1-50 of 749
+2026-11-23 12:52:54,671 | INFO | Prices: batch 51-100 of 749
+2026-11-23 12:52:57,327 | INFO | Prices: batch 101-150 of 749
+2026-11-23 12:52:59,982 | INFO | Prices: batch 151-200 of 749
+2026-11-23 12:53:02,887 | INFO | Prices: batch 201-250 of 749
+2026-11-23 12:53:05,622 | INFO | Prices: batch 251-300 of 749
+2026-11-23 12:53:08,545 | INFO | Prices: batch 301-350 of 749
+2026-11-23 12:53:11,239 | INFO | Prices: batch 351-400 of 749
+2026-11-23 12:53:13,963 | INFO | Prices: batch 401-450 of 749
+2026-11-23 12:53:16,563 | INFO | Prices: batch 451-500 of 749
+2026-11-23 12:53:19,167 | INFO | Prices: batch 501-550 of 749
+2026-11-23 12:53:21,904 | INFO | Prices: batch 551-600 of 749
+2026-11-23 12:53:24,673 | INFO | Prices: batch 601-650 of 749
+2026-11-23 12:53:27,460 | INFO | Prices: batch 651-700 of 749
+2026-11-23 12:53:30,070 | INFO | Prices: batch 701-749 of 749
+2026-11-23 12:53:32,630 | INFO | <<< technical_data_collection: SUCCESS - 749/749 symbols.
+2026-11-23 12:53:32,638 | INFO | >>> financial_filings_collection
+2026-11-23 12:53:32,650 | INFO | Statements: 25/749 done
+2026-11-23 12:53:32,657 | INFO | Statements: 50/749 done
+2026-11-23 12:53:32,664 | INFO | Statements: 75/749 done
+2026-11-23 12:53:32,671 | INFO | Statements: 100/749 done
+2026-11-23 12:53:32,677 | INFO | Statements: 125/749 done
+2026-11-23 12:53:32,684 | INFO | Statements: 150/749 done
+2026-11-23 12:53:32,691 | INFO | Statements: 175/749 done
+2026-11-23 12:53:32,697 | INFO | Statements: 200/749 done
+2026-11-23 12:53:32,704 | INFO | Statements: 225/749 done
+2026-11-23 12:53:32,710 | INFO | Statements: 250/749 done
+2026-11-23 12:53:32,717 | INFO | Statements: 275/749 done
+2026-11-23 12:53:32,723 | INFO | Statements: 300/749 done
+2026-11-23 12:53:32,730 | INFO | Statements: 325/749 done
+2026-11-23 12:53:32,736 | INFO | Statements: 350/749 done
+2026-11-23 12:53:32,743 | INFO | Statements: 375/749 done
+2026-11-23 12:53:32,749 | INFO | Statements: 400/749 done
+2026-11-23 12:53:32,756 | INFO | Statements: 425/749 done
+2026-11-23 12:53:32,762 | INFO | Statements: 450/749 done
+2026-11-23 12:53:32,768 | INFO | Statements: 475/749 done
+2026-11-23 12:53:32,776 | INFO | Statements: 500/749 done
+2026-11-23 12:53:32,782 | INFO | Statements: 525/749 done
+2026-11-23 12:53:32,789 | INFO | Statements: 550/749 done
+2026-11-23 12:53:32,795 | INFO | Statements: 575/749 done
+2026-11-23 12:53:32,800 | INFO | Statements: 600/749 done
+2026-11-23 12:53:32,807 | INFO | Statements: 625/749 done
+2026-11-23 12:53:32,813 | INFO | Statements: 650/749 done
+2026-11-23 12:53:32,819 | INFO | Statements: 675/749 done
+2026-11-23 12:53:32,826 | INFO | Statements: 700/749 done
+2026-11-23 12:53:32,833 | INFO | Statements: 725/749 done
+2026-11-23 12:53:32,840 | INFO | <<< financial_filings_collection: SUCCESS - 749/749 symbols.
+2026-11-23 12:53:32,841 | INFO | >>> valuation_data_collection
+2026-11-23 12:53:45,117 | INFO | Valuation info: 25/749 done
+2026-11-23 12:53:56,817 | INFO | Valuation info: 50/749 done
+2026-11-23 12:54:07,455 | INFO | Valuation info: 75/749 done
+2026-11-23 12:54:18,033 | INFO | Valuation info: 100/749 done
+2026-11-23 12:54:28,719 | INFO | Valuation info: 125/749 done
+2026-11-23 12:54:40,385 | INFO | Valuation info: 150/749 done
+2026-11-23 12:54:51,090 | INFO | Valuation info: 175/749 done
+2026-11-23 12:55:01,053 | INFO | Valuation info: 200/749 done
+2026-11-23 12:55:12,370 | INFO | Valuation info: 225/749 done
+2026-11-23 12:55:22,845 | INFO | Valuation info: 250/749 done
+2026-11-23 12:55:33,519 | INFO | Valuation info: 275/749 done
+2026-11-23 12:55:44,129 | INFO | Valuation info: 300/749 done
+2026-11-23 12:55:55,407 | INFO | Valuation info: 325/749 done
+2026-11-23 12:56:07,096 | INFO | Valuation info: 350/749 done
+2026-11-23 12:56:18,719 | INFO | Valuation info: 375/749 done
+2026-11-23 12:56:29,658 | INFO | Valuation info: 400/749 done
+2026-11-23 12:56:40,793 | INFO | Valuation info: 425/749 done

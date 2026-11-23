@@ -1,0 +1,67 @@
+2026-11-23 12:52:48,386 | INFO | IMDS v2.0 run - universe: 749 symbols
+2026-11-23 12:52:48,386 | INFO | >>> technical_data_collection
+2026-11-23 12:52:51,828 | INFO | Prices: batch 1-50 of 749
+2026-11-23 12:52:54,671 | INFO | Prices: batch 51-100 of 749
+2026-11-23 12:52:57,327 | INFO | Prices: batch 101-150 of 749
+2026-11-23 12:52:59,982 | INFO | Prices: batch 151-200 of 749
+2026-11-23 12:53:02,887 | INFO | Prices: batch 201-250 of 749
+2026-11-23 12:53:05,622 | INFO | Prices: batch 251-300 of 749
+2026-11-23 12:53:08,545 | INFO | Prices: batch 301-350 of 749
+2026-11-23 12:53:11,239 | INFO | Prices: batch 351-400 of 749
+2026-11-23 12:53:13,963 | INFO | Prices: batch 401-450 of 749
+2026-11-23 12:53:16,563 | INFO | Prices: batch 451-500 of 749
+2026-11-23 12:53:19,167 | INFO | Prices: batch 501-550 of 749
+2026-11-23 12:53:21,904 | INFO | Prices: batch 551-600 of 749
+2026-11-23 12:53:24,673 | INFO | Prices: batch 601-650 of 749
+2026-11-23 12:53:27,460 | INFO | Prices: batch 651-700 of 749
+2026-11-23 12:53:30,070 | INFO | Prices: batch 701-749 of 749
+2026-11-23 12:53:32,630 | INFO | <<< technical_data_collection: SUCCESS - 749/749 symbols.
+2026-11-23 12:53:32,638 | INFO | >>> financial_filings_collection
+2026-11-23 12:53:32,650 | INFO | Statements: 25/749 done
+2026-11-23 12:53:32,657 | INFO | Statements: 50/749 done
+2026-11-23 12:53:32,664 | INFO | Statements: 75/749 done
+2026-11-23 12:53:32,671 | INFO | Statements: 100/749 done
+2026-11-23 12:53:32,677 | INFO | Statements: 125/749 done
+2026-11-23 12:53:32,684 | INFO | Statements: 150/749 done
+2026-11-23 12:53:32,691 | INFO | Statements: 175/749 done
+2026-11-23 12:53:32,697 | INFO | Statements: 200/749 done
+2026-11-23 12:53:32,704 | INFO | Statements: 225/749 done
+2026-11-23 12:53:32,710 | INFO | Statements: 250/749 done
+2026-11-23 12:53:32,717 | INFO | Statements: 275/749 done
+2026-11-23 12:53:32,723 | INFO | Statements: 300/749 done
+2026-11-23 12:53:32,730 | INFO | Statements: 325/749 done
+2026-11-23 12:53:32,736 | INFO | Statements: 350/749 done
+2026-11-23 12:53:32,743 | INFO | Statements: 375/749 done
+2026-11-23 12:53:32,749 | INFO | Statements: 400/749 done
+2026-11-23 12:53:32,756 | INFO | Statements: 425/749 done
+2026-11-23 12:53:32,762 | INFO | Statements: 450/749 done
+2026-11-23 12:53:32,768 | INFO | Statements: 475/749 done
+2026-11-23 12:53:32,776 | INFO | Statements: 500/749 done
+2026-11-23 12:53:32,782 | INFO | Statements: 525/749 done
+2026-11-23 12:53:32,789 | INFO | Statements: 550/749 done
+2026-11-23 12:53:32,795 | INFO | Statements: 575/749 done
+2026-11-23 12:53:32,800 | INFO | Statements: 600/749 done
+2026-11-23 12:53:32,807 | INFO | Statements: 625/749 done
+2026-11-23 12:53:32,813 | INFO | Statements: 650/749 done
+2026-11-23 12:53:32,819 | INFO | Statements: 675/749 done
+2026-11-23 12:53:32,826 | INFO | Statements: 700/749 done
+2026-11-23 12:53:32,833 | INFO | Statements: 725/749 done
+2026-11-23 12:53:32,840 | INFO | <<< financial_filings_collection: SUCCESS - 749/749 symbols.
+2026-11-23 12:53:32,841 | INFO | >>> valuation_data_collection
+2026-11-23 12:53:45,117 | INFO | Valuation info: 25/749 done
+2026-11-23 12:53:56,817 | INFO | Valuation info: 50/749 done
+2026-11-23 12:54:07,455 | INFO | Valuation info: 75/749 done
+2026-11-23 12:54:18,033 | INFO | Valuation info: 100/749 done
+2026-11-23 12:54:28,719 | INFO | Valuation info: 125/749 done
+2026-11-23 12:54:40,385 | INFO | Valuation info: 150/749 done
+2026-11-23 12:54:51,090 | INFO | Valuation info: 175/749 done
+2026-11-23 12:55:01,053 | INFO | Valuation info: 200/749 done
+2026-11-23 12:55:12,370 | INFO | Valuation info: 225/749 done
+2026-11-23 12:55:22,845 | INFO | Valuation info: 250/749 done
+2026-11-23 12:55:33,519 | INFO | Valuation info: 275/749 done
+2026-11-23 12:55:44,129 | INFO | Valuation info: 300/749 done
+2026-11-23 12:55:55,407 | INFO | Valuation info: 325/749 done
+2026-11-23 12:56:07,096 | INFO | Valuation info: 350/749 done
+2026-11-23 12:56:18,719 | INFO | Valuation info: 375/749 done
+2026-11-23 12:56:29,658 | INFO | Valuation info: 400/749 done
+2026-11-23 12:56:40,793 | INFO | Valuation info: 425/749 done

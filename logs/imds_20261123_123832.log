@@ -1,0 +1,18 @@
+2026-11-23 12:38:32,539 | INFO | IMDS v2.0 run - universe: 749 symbols
+2026-11-23 12:38:32,539 | INFO | >>> annual_financial_extraction
+2026-11-23 12:38:37,668 | INFO | <<< annual_financial_extraction: PARTIAL - 748/749 symbols. 2966 annual rows
+2026-11-23 12:38:37,670 | INFO | >>> quarterly_results_extraction
+2026-11-23 12:38:39,791 | INFO | <<< quarterly_results_extraction: SUCCESS - 749/749 symbols. 3786 quarterly rows
+2026-11-23 12:38:39,793 | INFO | >>> technical_calc
+2026-11-23 12:38:42,750 | INFO | <<< technical_calc: SUCCESS - 749/749 symbols.
+2026-11-23 12:38:42,752 | INFO | >>> fundamentals_calc
+2026-11-23 12:38:45,311 | INFO | <<< fundamentals_calc: PARTIAL - 748/749 symbols.
+2026-11-23 12:38:45,319 | INFO | >>> valuation_calculation
+2026-11-23 12:38:45,348 | INFO | <<< valuation_calculation: SUCCESS - 749/749 symbols. PEG available for 523
+2026-11-23 12:38:45,349 | INFO | >>> data_validation
+2026-11-23 12:38:45,460 | INFO | <<< data_validation: PARTIAL - 733/749 symbols. ready for scoring
+2026-11-23 12:38:45,461 | INFO | >>> multibagger_scoring
+2026-11-23 12:38:45,549 | INFO | <<< multibagger_scoring: SUCCESS - 584 ranked of 749; top: TIPSMUSIC, SEDEMAC, SJS
+2026-11-23 12:38:45,551 | INFO | >>> excel_report
+2026-11-23 12:38:46,550 | INFO | <<< excel_report: SUCCESS - IMDS_report_20261123.xlsx
+2026-11-23 12:38:46,554 | INFO | Done. Status: D:\IMDS_v2_1\data\output\pipeline_status.csv
