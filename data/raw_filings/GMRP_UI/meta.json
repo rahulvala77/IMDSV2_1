@@ -1,0 +1,15 @@
+{
+  "symbol": "GMRP&UI",
+  "ticker": "GMRP&UI.NS",
+  "source": "Yahoo Finance via yfinance (third-party, unofficial)",
+  "source_url": "https://finance.yahoo.com/quote/GMRP&UI.NS/financials",
+  "fetched_at_utc": "2026-11-23T06:25:59+00:00",
+  "yfinance_version": "1.8.0",
+  "statements": [
+    "income_stmt",
+    "balance_sheet",
+    "cashflow",
+    "quarterly_income_stmt"
+  ],
+  "status": "OK"
+}
