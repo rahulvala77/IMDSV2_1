@@ -1,0 +1,10 @@
+{
+  "symbol": "BAGMANE",
+  "ticker": "BAGMANE.NS",
+  "source": "Yahoo Finance via yfinance (third-party, unofficial)",
+  "source_url": "https://finance.yahoo.com/quote/BAGMANE.NS/financials",
+  "fetched_at_utc": "2026-11-23T06:24:12+00:00",
+  "yfinance_version": "1.8.0",
+  "statements": [],
+  "status": "EMPTY"
+}
